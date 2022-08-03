@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# test2: Dirty Data - 数値以外を含む
+# $1 に数値以外を含む
+./gcf.sh a3 6 > /tmp/$$-ki_result
+
